@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shamim Al Mamun</h1>
+<h1 align="center">I'm Shamim Al Mamun</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
 <p align="center">
