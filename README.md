@@ -22,7 +22,7 @@
 - 🔭 Currently working at **Taghyeer Technology**
 - 🌐 Portfolio: [shamimal99.netlify.app](https://shamimal99.netlify.app/)
 - ✍ I regularly write blogs at: [shamimskothon.blogspot.com](https://shamimskothon.blogspot.com/)
-- 💬 Ask me about: `JavaScript`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Socket.io`
+- 💬 Ask me about: `JavaScript`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Socket.io`, `Nginx` , `Microservices`, `Redis`, `bullMQ`
 - 📫 Email: **shamim36960@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1crLQ-CbxvUhvUUUWbTvORtofBzaOJ0FO/view?usp=drive_link)
 
