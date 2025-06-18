@@ -62,7 +62,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /></a>
-  <a href="https://docs.bullmq.io/" target="_blank"><img src="https://images.app.goo.gl/65WpQa8Bnv9xfGx9A" width="40" height="40" alt="BullMQ" /></a>
+  <a href="https://docs.bullmq.io/" target="_blank"><img src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" width="40" height="40" alt="BullMQ" /></a>
 </p>
 
 
