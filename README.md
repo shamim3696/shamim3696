@@ -61,7 +61,11 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /></a>
+  <a href="https://docs.bullmq.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/295235?v=4" width="40" height="40" alt="BullMQ" /></a>
+  <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/893/893682.png" width="40" height="40" alt="Load Balancing" /></a>
 </p>
+
 
 ---
 
