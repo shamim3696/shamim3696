@@ -1,12 +1,16 @@
+<!-- Animated header wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100=70a5fd&height=120&section=header" />
+
 <div align="center">
+
+<!-- Animated typing headline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shamim+Al+Mamun+👋;Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 <img src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" alt="Shamim Al Mamun" height="160" width="160" style="border-radius: 50%;" />
 
-# Shamim Al Mamun
-
-### Backend Software Engineer
-
 *Building scalable systems, real-time applications, and distributed architectures*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamim3696/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shamimal99.netlify.app/)
@@ -138,3 +142,6 @@ I'm always open to discussing backend architecture, system design, new opportuni
 <div align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1f6feb,100:1a1b27&height=120&section=footer" />
