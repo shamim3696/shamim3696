@@ -105,7 +105,7 @@ I actively practice algorithmic problem solving to sharpen my analytical thinkin
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamim3696&theme=tokyonight" alt="GitHub Stats" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamim3696&theme=tokyonight" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamim3696&theme=tokyonight&exclude=go,c%2B%2B,cmake,makefile" alt="Top Languages by Commits" height="170"/>
 
 </div>
 
