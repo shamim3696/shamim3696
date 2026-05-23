@@ -103,9 +103,9 @@ I actively practice algorithmic problem solving to sharpen my analytical thinkin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamim3696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamim3696&theme=tokyonight" alt="GitHub Stats" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim3696&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamim3696&theme=tokyonight" alt="Top Languages" height="170"/>
 
 </div>
 
