@@ -41,6 +41,7 @@ I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.co
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frameworks & Libraries
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,11 +56,13 @@ I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.co
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E53E3E?style=for-the-badge&logo=redis&logoColor=white)
+![Kong Gateway](https://img.shields.io/badge/Kong%20Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 
-### DevOps & Tools
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -79,9 +82,10 @@ I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.co
 ✦ RESTful & GraphQL API Design        ✦ Real-Time Systems (WebSocket / Socket.io)
 ✦ Microservices & Event-Driven Design  ✦ Background Job Processing (BullMQ)
 ✦ Database Modeling & Optimization     ✦ Caching Strategies (Redis)
-✦ Authentication & Authorization       ✦ Rate Limiting & API Security
-✦ Load Balancing with Nginx            ✦ Containerization with Docker
+✦ Authentication & Authorization       ✦ API Gateway Management (Kong)
+✦ Load Balancing with Nginx            ✦ Cloud Infrastructure (AWS)
 ✦ Message Queues & Async Workflows     ✦ CI/CD & Deployment Automation
+✦ NestJS Application Architecture      ✦ Containerization with Docker
 ```
 
 ---
@@ -99,14 +103,21 @@ I actively practice algorithmic problem solving to sharpen my analytical thinkin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamim-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shamim-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shamim-code&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=shamim-code&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamim-code&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
