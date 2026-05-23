@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shamim+Al+Mamun+👋;Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Shamim+Al+Mamun;Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 <img src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" alt="Shamim Al Mamun" height="160" width="160" style="border-radius: 50%;" />
 
