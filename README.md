@@ -1,75 +1,131 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">I'm Shamim Al Mamun</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<img src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" alt="Shamim Al Mamun" height="160" width="160" style="border-radius: 50%;" />
 
-<p align="center">
-  <img 
-    src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" 
-    alt="Shamim Al Mamun" 
-    height="400" 
-    width="400" 
-    style="border-radius: 10px;"
-  />
-</p>
+# Shamim Al Mamun
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamim-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Backend Software Engineer
+
+*Building scalable systems, real-time applications, and distributed architectures*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamim3696/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shamimal99.netlify.app/)
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://shamimskothon.blogspot.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamim36960@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1crLQ-CbxvUhvUUUWbTvORtofBzaOJ0FO/view?usp=drive_link)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shamim-code&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.com/), passionate about designing and building reliable, high-performance server-side systems. I specialize in **real-time applications**, **microservices architecture**, and **distributed systems** — with a strong focus on scalability, clean code, and developer experience.
 
 - 🔭 Currently working at **Taghyeer Technology**
-- 🌐 Portfolio: [shamimal99.netlify.app](https://shamimal99.netlify.app/)
-- ✍ I regularly write blogs at: [shamimskothon.blogspot.com](https://shamimskothon.blogspot.com/)
-- 💬 Ask me about: `JavaScript`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Socket.io`, `Nginx` , `Microservices`, `Redis`, `bullMQ`
-- 📫 Email: **shamim36960@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1crLQ-CbxvUhvUUUWbTvORtofBzaOJ0FO/view?usp=drive_link)
+- 🏗️ Focused on **microservices**, **event-driven architecture**, and **API design**
+- 🧠 Exploring **system design patterns**, **distributed tracing**, and **cloud-native development**
+- ✍️ I write about backend engineering on my [blog](https://shamimskothon.blogspot.com/)
+- 🤝 Open to collaborating on open-source backend projects
+- 📫 Reach me at **shamim36960@gmail.com**
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/shamim3696/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/shamim3696/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/shamim3696" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/shamim3696/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frameworks & Libraries
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Architecture & Infrastructure
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E53E3E?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Other Skills
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧩 Core Competencies
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
-  <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /></a>
-  <a href="https://docs.bullmq.io/" target="_blank"><img src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" width="40" height="40" alt="BullMQ" /></a>
-</p>
-
+```
+✦ RESTful & GraphQL API Design        ✦ Real-Time Systems (WebSocket / Socket.io)
+✦ Microservices & Event-Driven Design  ✦ Background Job Processing (BullMQ)
+✦ Database Modeling & Optimization     ✦ Caching Strategies (Redis)
+✦ Authentication & Authorization       ✦ Rate Limiting & API Security
+✦ Load Balancing with Nginx            ✦ Containerization with Docker
+✦ Message Queues & Async Workflows     ✦ CI/CD & Deployment Automation
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Competitive Programming
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>       
+I actively practice algorithmic problem solving to sharpen my analytical thinking.
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shamim3696)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shamim3696/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamim-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shamim-code&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing backend architecture, system design, new opportunities, or just a friendly tech chat.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamim3696/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shamim3696/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamim36960@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
