@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamim36960@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1crLQ-CbxvUhvUUUWbTvORtofBzaOJ0FO/view?usp=drive_link)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shamim-code&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=shamim3696&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -103,21 +103,21 @@ I actively practice algorithmic problem solving to sharpen my analytical thinkin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamim-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shamim3696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim3696&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shamim-code&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=shamim3696&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamim-code&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamim3696&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
