@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.com/), passionate about designing and building reliable, high-performance server-side systems. I specialize in **real-time applications**, **microservices architecture**, and **distributed systems** — with a strong focus on scalability, clean code, and developer experience.
+I'm a **Backend Software Engineer** at [Taghyeer Technology](https://taghyeer.ai/), passionate about designing and building reliable, high-performance server-side systems. I specialize in **real-time applications**, **microservices architecture**, and **distributed systems** — with a strong focus on scalability, clean code, and developer experience.
 
 - 🔭 Currently working at **Taghyeer Technology**
 - 🏗️ Focused on **microservices**, **event-driven architecture**, and **API design**
